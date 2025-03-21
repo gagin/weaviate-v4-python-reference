@@ -4,8 +4,8 @@ This repository contains reference materials for the Weaviate v4 Python client, 
 
 ## Files
 
-- `[reference.md](reference.md)`: A comprehensive Markdown reference documenting the Weaviate v4 Python client's modules, classes, methods, and parameters. Includes a table of contents with clickable links for navigation.
-- `[examples.rst](examples.rst)`: A concise reStructuredText reference with practical examples, linking to `reference.md` for full details. Features a table of contents and formatted code blocks for ease of use.
+- [reference.md](reference.md): A comprehensive Markdown reference documenting the Weaviate v4 Python client's modules, classes, methods, and parameters. Includes a table of contents with clickable links for navigation.
+- [examples.rst](examples.rst): A concise reStructuredText reference with practical examples, linking to `reference.md` for full details. Features a table of contents and formatted code blocks for ease of use.
 
 *Note: Using reStructuredText resolves code block display issues encountered with Markdown in the chatbot UI*
 
